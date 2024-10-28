@@ -1,0 +1,14 @@
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\bin\Debug\net8.0\opavers28-10.exe
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\bin\Debug\net8.0\opavers28-10.deps.json
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\bin\Debug\net8.0\opavers28-10.runtimeconfig.json
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\bin\Debug\net8.0\opavers28-10.dll
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\bin\Debug\net8.0\opavers28-10.pdb
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.dll
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\refint\opavers28-10.dll
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.pdb
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\opavers28-10.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\source\repos\opavers28-10\obj\Debug\net8.0\ref\opavers28-10.dll
