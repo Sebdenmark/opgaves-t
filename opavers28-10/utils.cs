@@ -7,7 +7,7 @@ namespace opavers28_10
     internal class Utils
     {
         // Define the file path
-        private static string path = @"C:\Users\Sebastian Nielsen\source\repos\opavers28-10\liste.txt";
+        private static string path = @"C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opavers28-10\liste.txt";
 
         // Method to insert data into the text file
         public static void SaveDataInTxt(string name, string email, string phoneNumber)

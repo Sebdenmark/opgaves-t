@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\",
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opavers28-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\liste.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:liste.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opavers28-10\\liste.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|solutionrelative:liste.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opavers28-10\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C12E5E3-7C9C-4E1F-A479-ED32F5020BFC}|opavers28-10.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "liste.txt",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\liste.txt",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\liste.txt",
               "RelativeDocumentMoniker": "liste.txt",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\liste.txt",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\liste.txt",
               "RelativeToolTip": "liste.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -41,24 +41,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "utils.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\utils.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\utils.cs",
               "RelativeDocumentMoniker": "utils.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\utils.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\utils.cs",
               "RelativeToolTip": "utils.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwCsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:38:55.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T10:38:55.455Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\source\\repos\\opavers28-10\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:37:53.253Z",
               "EditorCaption": ""
