@@ -5,11 +5,9 @@ namespace opavers28_10
 {
     internal class Program
     {
-
         //here is the main where there a made a switch case so that the use have a menue to chose what the user want to use.
         //it is inside a while loop so you have the option to go back to the menue and the program does not close when you finsih one of the options
         // each options is not definde in the main but in utils, and the it is made as a mehod in utils so that you can call it in the main
-
         static void Main(string[] args)
         {
             bool continueProgram = true;
