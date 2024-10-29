@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\opavers28-10.csproj",
-      "projectName": "opavers28-10",
-      "projectPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\opavers28-10.csproj",
+      "projectUniqueName": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\c1.csproj",
+      "projectName": "c1",
+      "projectPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\c1.csproj",
       "packagesPath": "C:\\Users\\Sebastian Nielsen\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opavers28-10\\obj\\",
       "projectStyle": "PackageReference",
