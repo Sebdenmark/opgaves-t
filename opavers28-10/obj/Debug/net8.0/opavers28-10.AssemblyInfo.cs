@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("opavers28-10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+940c4c1a88c68ea0f25cf8cbb86608cc266d6090")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15a20e354f9f4a8436ff94e0a033a67c4e8c4668")]
 [assembly: System.Reflection.AssemblyProductAttribute("opavers28-10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("opavers28-10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

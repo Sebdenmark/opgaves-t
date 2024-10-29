@@ -1,1 +1,4 @@
-sebastian,sebdenmark@gmail.com,60630527seb,s@g,60
+sebastian,nielsen@gmail.com,60630527
+niels,niller@gmail.com,12345678
+hans,hans@gmail.com,12356789
+luna,luna@gmail.com,12345678
