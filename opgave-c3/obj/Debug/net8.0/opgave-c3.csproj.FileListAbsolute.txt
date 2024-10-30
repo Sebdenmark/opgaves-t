@@ -1,0 +1,15 @@
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\bin\Debug\net8.0\opgave-c3.exe
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\bin\Debug\net8.0\opgave-c3.deps.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\bin\Debug\net8.0\opgave-c3.runtimeconfig.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\bin\Debug\net8.0\opgave-c3.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\bin\Debug\net8.0\opgave-c3.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.sourcelink.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\refint\opgave-c3.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\opgave-c3.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\opgave-c3\obj\Debug\net8.0\ref\opgave-c3.dll

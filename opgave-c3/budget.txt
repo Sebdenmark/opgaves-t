@@ -1,0 +1,2 @@
+Expense,mad,3000
+Income,4000
