@@ -73,9 +73,9 @@ namespace opgave_c3
                 {
                     string[] details = lines[i].Split(',');
 
-                    if (details.Length == 2 && details[0] == "Income")
+                    if (details.Length == 3 && details[0] == "Income")
                     {
-                        monthlyIncome = double.Parse(details[1]);
+                        monthlyIncome = double.Parse(details[2]);  
                         lastIncomeIndex = i;  
                     }
                 }
@@ -93,7 +93,6 @@ namespace opgave_c3
 
                 double remainingBalance = monthlyIncome - totalExpenses;
 
-                // Display results
                 Console.WriteLine($"\nTotal Monthly Income: {monthlyIncome:C}");
                 Console.WriteLine($"Total Expenses: {totalExpenses:C}");
                 Console.WriteLine($"Remaining Balance After Expenses: {remainingBalance:C}");
@@ -103,55 +102,13 @@ namespace opgave_c3
                 Console.WriteLine($"An error occurred: {ex.Message}");
             }
         }
-
-        //here is a mothd that makes it posible to seach in the text from the month name and then display what you used that month 
-        public static void ShowMonthlyIncomeAndBalance(string monthToShow)
+        //in this method i use the same logic as in CalculateExpensesAndBalance the resoan i do this is to make an easy way to retrive all of the data from the txt and caluclate the things again an show all data together, with out saving more things in the txt. so now it just take the income and all the expenses after that and calculate that. and then start a new calculation when a new income 
+        public static void ShowAllMonthsSummary()
         {
             double monthlyIncome = 0;
             double totalExpenses = 0;
+            string currentMonth = "";
             bool incomeFound = false;
-
-            try
-            {
-                foreach (string line in File.ReadLines(path))
-                {
-                    string[] details = line.Split(',');
-
-                    if (details.Length == 3 && details[0] == "Income" && details[1].Equals(monthToShow, StringComparison.OrdinalIgnoreCase))
-                    {
-                        monthlyIncome = double.Parse(details[2]);
-                        incomeFound = true; 
-                    }
-                    else if (details.Length == 3 && details[0] == "Expense" && details[1].Equals(monthToShow, StringComparison.OrdinalIgnoreCase))
-                    {
-                        double expenseCost = double.Parse(details[2]);
-                        totalExpenses += expenseCost;
-                    }
-                }
-
-                if (incomeFound)
-                {
-                    double remainingBalance = monthlyIncome - totalExpenses;
-
-                    Console.WriteLine($"\nMonth: {monthToShow}");
-                    Console.WriteLine($"Monthly Income: {monthlyIncome:C}");
-                    Console.WriteLine($"Total Expenses: {totalExpenses:C}");
-                    Console.WriteLine($"Remaining Balance After Expenses: {remainingBalance:C}");
-                }
-                else
-                {
-                    Console.WriteLine($"No income record found for the month of {monthToShow}.");
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"An error occurred: {ex.Message}");
-            }
-        }
-        public static void ShowAllMonthsSummary()
-        {
-            Dictionary<string, double> monthlyIncomes = new Dictionary<string, double>();
-            Dictionary<string, double> monthlyExpenses = new Dictionary<string, double>();
 
             try
             {
@@ -161,46 +118,38 @@ namespace opgave_c3
 
                     if (details.Length == 3 && details[0] == "Income")
                     {
-                        string month = details[1];
-                        double income = double.Parse(details[2]);
+                        if (incomeFound)
+                        {
+                            double remainingBalance = monthlyIncome - totalExpenses;
+                            Console.WriteLine($"\nMonth: {currentMonth}");
+                            Console.WriteLine($"Monthly Income: {monthlyIncome:C}");
+                            Console.WriteLine($"Total Expenses: {totalExpenses:C}");
+                            Console.WriteLine($"Remaining Balance After Expenses: {remainingBalance:C}");
+                            Console.WriteLine("-------------------------------------------------------");
 
-                        if (monthlyIncomes.ContainsKey(month))
-                        {
-                            monthlyIncomes[month] += income;
+
+                            totalExpenses = 0;
                         }
-                        else
-                        {
-                            monthlyIncomes[month] = income;
-                        }
+
+                        currentMonth = details[1];
+                        monthlyIncome = double.Parse(details[2]);
+                        incomeFound = true;
                     }
-
                     else if (details.Length == 3 && details[0] == "Expense")
                     {
-                        string month = details[1];
-                        double expense = double.Parse(details[2]);
-
-                        if (monthlyExpenses.ContainsKey(month))
-                        {
-                            monthlyExpenses[month] += expense;
-                        }
-                        else
-                        {
-                            monthlyExpenses[month] = expense;
-                        }
+                        double expenseCost = double.Parse(details[2]);
+                        totalExpenses += expenseCost;
                     }
                 }
 
-                Console.WriteLine("Monthly Summary:");
-                foreach (var month in monthlyIncomes.Keys)
+                if (incomeFound)
                 {
-                    double income = monthlyIncomes[month];
-                    double expenses = monthlyExpenses.ContainsKey(month) ? monthlyExpenses[month] : 0;
-                    double remainingBalance = income - expenses;
-
-                    Console.WriteLine($"\nMonth: {month}");
-                    Console.WriteLine($"Monthly Income: {income:C}");
-                    Console.WriteLine($"Total Expenses: {expenses:C}");
+                    double remainingBalance = monthlyIncome - totalExpenses;
+                    Console.WriteLine($"\nMonth: {currentMonth}");
+                    Console.WriteLine($"Monthly Income: {monthlyIncome:C}");
+                    Console.WriteLine($"Total Expenses: {totalExpenses:C}");
                     Console.WriteLine($"Remaining Balance After Expenses: {remainingBalance:C}");
+                    Console.WriteLine("-------------------------------------------------------");
                 }
             }
             catch (Exception ex)

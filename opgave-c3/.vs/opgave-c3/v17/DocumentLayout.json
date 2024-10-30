@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opgave-c3\\utilsc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|solutionrelative:utilsc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opgave-c3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opgave-c3\\budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|solutionrelative:budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opgave-c3\\utilsc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F4A3A3-8586-4811-ADAF-1EE37CC3E6CD}|opgave-c3.csproj|solutionrelative:utilsc3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "budget.txt",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\budget.txt",
               "RelativeDocumentMoniker": "budget.txt",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\budget.txt",
               "RelativeToolTip": "budget.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-10-30T09:03:22.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "utilsc3.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\utilsc3.cs",
               "RelativeDocumentMoniker": "utilsc3.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\utilsc3.cs",
               "RelativeToolTip": "utilsc3.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAAwL8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwH8AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T08:59:39.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwEEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wBEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T08:59:18.218Z",
               "EditorCaption": ""

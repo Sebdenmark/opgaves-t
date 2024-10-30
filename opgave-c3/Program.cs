@@ -12,8 +12,7 @@
                 Console.WriteLine("Press 1 Enter your monthly income");
                 Console.WriteLine("Press 2 Enter expenses");
                 Console.WriteLine("Press 3 to se how much you used this month on expenses and how much you have left");
-                Console.WriteLine("Press 4 to seach for a month and see what u used that month");
-                Console.WriteLine("Press 5 to see all of the months");
+                Console.WriteLine("Press 4 to see all of the months");
                 Console.WriteLine("Press 0 to exit");
 
                 switch (Console.ReadKey().KeyChar)
@@ -50,15 +49,6 @@
                         break;
 
                     case '4':
-                        Console.WriteLine("\nEnter the month you want to view (e.g., January):");
-                        string monthToShow = Console.ReadLine();
-                        utilsc3.ShowMonthlyIncomeAndBalance(monthToShow);
-                        Console.WriteLine("Press Enter to return to menu.");
-                        Console.ReadLine();
-                        Console.Clear();
-                        break;
-
-                    case '5':
                         utilsc3.ShowAllMonthsSummary();
                         Console.WriteLine("Press Enter to return to menu.");
                         Console.ReadLine();

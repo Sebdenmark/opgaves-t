@@ -1,2 +1,9 @@
+Income,april,10000
+Expense,husleje,5000
+Expense,mad,2000
+Income,juli,10000
+Expense,mad,2000
+Expense,hus,5000
+Income,december,15000
 Expense,mad,3000
-Income,4000
+Expense,hus,5000
