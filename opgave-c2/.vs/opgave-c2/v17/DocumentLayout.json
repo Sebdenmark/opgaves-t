@@ -34,8 +34,7 @@
               "RelativeToolTip": "virksomhedoplysninger.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-29T07:53:34.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T07:53:34.774Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "utilsc2.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opgave-c2\\utilsc2.cs",
               "RelativeToolTip": "utilsc2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T07:50:09.367Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwEIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T07:49:30.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T07:49:30.029Z"
             }
           ]
         }

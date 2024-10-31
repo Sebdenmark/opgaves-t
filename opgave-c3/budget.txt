@@ -7,3 +7,6 @@ Expense,hus,5000
 Income,december,15000
 Expense,mad,3000
 Expense,hus,5000
+Income,april,5000
+Expense,mad,2000
+Expense,husleje,6000
