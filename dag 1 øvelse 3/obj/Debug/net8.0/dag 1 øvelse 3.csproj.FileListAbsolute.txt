@@ -1,0 +1,14 @@
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\bin\Debug\net8.0\dag 1 øvelse 3.exe
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\bin\Debug\net8.0\dag 1 øvelse 3.deps.json
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\bin\Debug\net8.0\dag 1 øvelse 3.runtimeconfig.json
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\bin\Debug\net8.0\dag 1 øvelse 3.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\bin\Debug\net8.0\dag 1 øvelse 3.pdb
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\refint\dag 1 øvelse 3.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.pdb
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\dag 1 øvelse 3.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\dag 1 øvelse 3\obj\Debug\net8.0\ref\dag 1 øvelse 3.dll

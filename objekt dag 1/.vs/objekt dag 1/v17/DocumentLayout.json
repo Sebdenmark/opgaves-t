@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\objekt dag 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A2EC17-8041-4E09-96D2-72CA39BBEB25}|objekt dag 1.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\objekt dag 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A2EC17-8041-4E09-96D2-72CA39BBEB25}|objekt dag 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A2EC17-8041-4E09-96D2-72CA39BBEB25}|objekt dag 1.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\objekt dag 1\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A2EC17-8041-4E09-96D2-72CA39BBEB25}|objekt dag 1.csproj|solutionrelative:wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wordcounter.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\objekt dag 1\\wordcounter.cs",
+              "RelativeDocumentMoniker": "wordcounter.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\objekt dag 1\\wordcounter.cs",
+              "RelativeToolTip": "wordcounter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:33:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\objekt dag 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\objekt dag 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:52:03.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
