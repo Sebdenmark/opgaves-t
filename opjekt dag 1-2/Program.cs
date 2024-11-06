@@ -9,7 +9,8 @@
 
             string fullname = Console.ReadLine();
             //here we make an instance of the bankaccount 
-            Account myAccount = new Account(fullname);
+            Accountowner myAccount = new Accountowner(fullname);
+          
 
             Console.WriteLine($"Saldo: {myAccount.GetBalance()} kr");
 
@@ -27,6 +28,7 @@
 
     
             Console.WriteLine($"{myAccount.GetName()} customer id: {myAccount.GetCustomerid()} Saldo: {myAccount.GetBalance()} kr");
+
 
             AccountAdmin adminAccount = new AccountAdmin("hans hansen");
 
