@@ -1,0 +1,14 @@
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\bin\Debug\net8.0\opjekt dag 1.exe
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\bin\Debug\net8.0\opjekt dag 1.deps.json
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\bin\Debug\net8.0\opjekt dag 1.runtimeconfig.json
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\bin\Debug\net8.0\opjekt dag 1.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\bin\Debug\net8.0\opjekt dag 1.pdb
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\refint\opjekt dag 1.dll
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.pdb
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\opjekt dag 1.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\Desktop\skole\opjekt dag 1\obj\Debug\net8.0\ref\opjekt dag 1.dll

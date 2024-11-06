@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dungoenescape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|c:\\users\\sebastian nielsen\\source\\repos\\consoleapp1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dungoenescape\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|c:\\users\\sebastian nielsen\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dungoenescape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65FEF71B-2D37-4F93-901B-CFA74E21AB14}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "game.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\source\\repos\\ConsoleApp1\\game.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dungoenescape\\game.cs",
               "RelativeDocumentMoniker": "game.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\source\\repos\\ConsoleApp1\\game.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dungoenescape\\game.cs",
               "RelativeToolTip": "game.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAuwIUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T12:45:09.203Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\source\\repos\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dungoenescape\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\source\\repos\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dungoenescape\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T07:18:32.863Z",
               "EditorCaption": ""

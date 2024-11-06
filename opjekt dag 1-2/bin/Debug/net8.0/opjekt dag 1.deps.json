@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "opjekt dag 1/1.0.0": {
+        "runtime": {
+          "opjekt dag 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opjekt dag 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
