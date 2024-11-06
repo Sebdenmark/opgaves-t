@@ -12,7 +12,7 @@ namespace opjekt_dag_1
         //here we get the name aswell as an custome id from the other classe 
         public AccountAdmin(string fullname) : base(fullname)
         {
-            
+           
             Console.WriteLine($"AccountAdmin initialized for {name} with Customer ID: {customerid}");
         }
 
