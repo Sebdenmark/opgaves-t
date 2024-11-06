@@ -28,6 +28,10 @@
     
             Console.WriteLine($"{myAccount.GetName()} customer id: {myAccount.GetCustomerid()} Saldo: {myAccount.GetBalance()} kr");
 
+            AccountAdmin adminAccount = new AccountAdmin("hans hansen");
+
+            adminAccount.DisplayAccountInfo();
+
             Console.ReadLine();
         }
     }

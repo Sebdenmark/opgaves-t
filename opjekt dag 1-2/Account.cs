@@ -10,8 +10,8 @@ namespace opjekt_dag_1
     {
         // the calss it private so that if you want to changes thing in it, you have to go through the public mehods 
         private decimal balance;
-        private string name;
-        private int customerid;
+        public string name;
+        public int customerid;
 
         // Constructor,to insert the 100kr 
         public Account(string fullname)
