@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\",
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\obejkt dag 3\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:wheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\obejkt dag 3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\obejkt dag 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\desktop\\skole\\obejkt dag 3\\vehicleinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\vehicleinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:vehicleinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\obejkt dag 3\\iwheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE638FE-DDD6-413E-8BDF-FC521E5CDE6F}|obejkt dag 3.csproj|solutionrelative:iwheels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Iwheels.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Iwheels.cs",
+              "RelativeDocumentMoniker": "Iwheels.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Iwheels.cs",
+              "RelativeToolTip": "Iwheels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:19:34.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Wheels.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Wheels.cs",
+              "RelativeDocumentMoniker": "Wheels.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Wheels.cs",
+              "RelativeToolTip": "Wheels.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:18:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "truck.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\truck.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\truck.cs",
               "RelativeDocumentMoniker": "truck.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\truck.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\truck.cs",
               "RelativeToolTip": "truck.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:18:44.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "car.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\car.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\car.cs",
               "RelativeDocumentMoniker": "car.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\car.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\car.cs",
               "RelativeToolTip": "car.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:18:09.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VehicleInspection.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\VehicleInspection.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\VehicleInspection.cs",
               "RelativeDocumentMoniker": "VehicleInspection.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\VehicleInspection.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\VehicleInspection.cs",
               "RelativeToolTip": "VehicleInspection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T13:16:59.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Desktop\\skole\\obejkt dag 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\obejkt dag 3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T07:28:25.754Z",
               "EditorCaption": ""
