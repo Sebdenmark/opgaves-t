@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("objekt dag 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ab1ff33cf9ade63458784b0725c5bb16175d882")]
 [assembly: System.Reflection.AssemblyProductAttribute("objekt dag 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("objekt dag 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

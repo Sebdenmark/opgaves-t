@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\enumanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:enumanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\AnimalFactory.cs",
+              "RelativeDocumentMoniker": "AnimalFactory.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\AnimalFactory.cs",
+              "RelativeToolTip": "AnimalFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:04:21.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enumanimal.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Enumanimal.cs",
+              "RelativeDocumentMoniker": "Enumanimal.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Enumanimal.cs",
+              "RelativeToolTip": "Enumanimal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:03:42.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sheep.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Sheep.cs",
+              "RelativeDocumentMoniker": "Sheep.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Sheep.cs",
+              "RelativeToolTip": "Sheep.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:03:04.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:02:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:01:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:00:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:07:36.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
