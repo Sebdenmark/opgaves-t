@@ -54,6 +54,8 @@
                         Console.WriteLine($"E-mail fejl: {ex.Message}. Inner exception: {ex.InnerException?.Message}");
                         continue;
                     }
+                    catch (Exception ex)
+                    { Console.WriteLine($"{ex.ToString()})"); }
 
                     // Tredje del: Skriv bruger til fil og vis registrerede brugere
                     try

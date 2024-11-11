@@ -9,7 +9,7 @@ namespace dag_6_objek_øvelse_2
 {
     public static class FileHandler
     {
-        private static readonly string filePath = @"Files\Users.txt";
+        private static readonly string filePath = @"C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objek øvelse 2\file\Users.txt";
 
         // Validering af brugerinput
         public static void ValidateUser(User user)
@@ -19,10 +19,11 @@ namespace dag_6_objek_øvelse_2
                 throw new InvalidNameException("Navnet må ikke være tomt.", new ArgumentNullException("Navn er tomt"));
             }
 
-            if ((user.Age < 18 && user.Age > 50) )
+            if (user.Age < 18 || user.Age > 50)
             {
                 throw new InvalidAgeException("Alderen skal være mellem 18 og 50.", new ArgumentOutOfRangeException("Alder er uden for det tilladte interval"));
             }
+
 
             if (!Regex.IsMatch(user.Email, @"@.*\."))
             {
@@ -33,10 +34,19 @@ namespace dag_6_objek_øvelse_2
         // Opret filen, hvis den ikke eksisterer
         public static void EnsureFileExists()
         {
+            // Hent mappen fra filePath
+            string directoryPath = Path.GetDirectoryName(filePath);
+
+            // Opret mappen, hvis den ikke eksisterer
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+
+            // Opret filen, hvis den ikke eksisterer
             if (!File.Exists(filePath))
             {
-                Directory.CreateDirectory("Files");
-                File.Create(filePath).Dispose();
+                File.Create(filePath).Dispose(); 
             }
         }
 
@@ -63,6 +73,11 @@ namespace dag_6_objek_øvelse_2
             try
             {
                 EnsureFileExists();
+                if (!Directory.Exists(filePath))
+                { Console.WriteLine("File findes ikke ");
+                    
+                }
+                
                 string[] lines = File.ReadAllLines(filePath);
                 Console.WriteLine("Registrerede Brugere:");
                 foreach (string line in lines)
@@ -75,6 +90,6 @@ namespace dag_6_objek_øvelse_2
                 throw new FileLoadException("Kunne ikke læse fra filen.", ex);
             }
         }
-      }
-
     }
+
+}
