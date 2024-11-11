@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\animalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\enumanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:enumanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 5 objekt\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDF61DE-259C-4603-A841-79AF4B83890C}|dag 4 objekt.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AnimalFactory.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\AnimalFactory.cs",
               "RelativeDocumentMoniker": "AnimalFactory.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Enumanimal.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Enumanimal.cs",
               "RelativeDocumentMoniker": "Enumanimal.cs",
@@ -63,24 +63,25 @@
               "RelativeToolTip": "Enumanimal.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:03:42.469Z"
+              "WhenOpened": "2024-11-08T09:03:42.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Sheep.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Sheep.cs",
               "RelativeDocumentMoniker": "Sheep.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Sheep.cs",
               "RelativeToolTip": "Sheep.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwB4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T09:03:04.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Cat.cs",
               "RelativeDocumentMoniker": "Cat.cs",
@@ -88,12 +89,11 @@
               "RelativeToolTip": "Cat.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T09:02:25.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T09:02:25.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Dog.cs",
               "RelativeDocumentMoniker": "Dog.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 5 objekt\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opjekt dag 1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opjekt dag 1-2\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opjekt dag 1-2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\opjekt dag 1-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182835E2-AFC6-4B74-90A6-4FAE8110715C}|opjekt dag 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,35 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "person.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\person.cs",
               "RelativeDocumentMoniker": "person.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\person.cs",
               "RelativeToolTip": "person.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:36:27.226Z"
+              "WhenOpened": "2024-11-06T10:36:27.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "accountowner.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\accountowner.cs",
               "RelativeDocumentMoniker": "accountowner.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\accountowner.cs",
               "RelativeToolTip": "accountowner.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:39:33.036Z"
+              "WhenOpened": "2024-11-06T09:39:33.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Accountadmin.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\Accountadmin.cs",
               "RelativeDocumentMoniker": "Accountadmin.cs",
@@ -66,23 +68,25 @@
               "RelativeToolTip": "Accountadmin.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:01:55.206Z"
+              "WhenOpened": "2024-11-06T09:01:55.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\Account.cs",
               "RelativeDocumentMoniker": "Account.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\Account.cs",
               "RelativeToolTip": "Account.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:50:57.903Z"
+              "WhenOpened": "2024-11-06T07:50:57.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\opjekt dag 1-2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -1,0 +1,15 @@
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\bin\Debug\net8.0\dag 6 objekt.exe
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\bin\Debug\net8.0\dag 6 objekt.deps.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\bin\Debug\net8.0\dag 6 objekt.runtimeconfig.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\bin\Debug\net8.0\dag 6 objekt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\bin\Debug\net8.0\dag 6 objekt.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.sourcelink.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\refint\dag 6 objekt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\dag 6 objekt.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\dag 6 objekt\obj\Debug\net8.0\ref\dag 6 objekt.dll
