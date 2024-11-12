@@ -68,16 +68,27 @@ namespace dag_6_objek_øvelse_2
         }
 
         // Læs brugere fra filen
+
+        public static void DisplayUserlist(List<User> users)
+        {
+            Console.WriteLine("Registrerede Brugere:");
+            foreach (User user in users)
+            {
+                Console.WriteLine($"Name: {user.FirstName} {user.LastName}, Age: {user.Age}, Email: {user.Email}");
+            }
+        }
+
         public static void DisplayUsers()
         {
             try
             {
                 EnsureFileExists();
                 if (!Directory.Exists(filePath))
-                { Console.WriteLine("File findes ikke ");
-                    
+                {
+                    Console.WriteLine("File findes ikke ");
+
                 }
-                
+
                 string[] lines = File.ReadAllLines(filePath);
                 Console.WriteLine("Registrerede Brugere:");
                 foreach (string line in lines)
