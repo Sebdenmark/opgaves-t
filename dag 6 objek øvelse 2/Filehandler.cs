@@ -58,7 +58,8 @@ namespace dag_6_objek_øvelse_2
                 EnsureFileExists();
                 using (StreamWriter sw = File.AppendText(filePath))
                 {
-                    sw.WriteLine($"{user.FirstName} {user.LastName}, {user.Age}, {user.Email}");
+                    // Sørger for, at linjen har det præcise format uden ekstra mellemrum
+                    sw.WriteLine($"{user.FirstName},{user.LastName},{user.Age},{user.Email}");
                 }
             }
             catch (Exception ex)
@@ -74,10 +75,10 @@ namespace dag_6_objek_øvelse_2
             Console.WriteLine("Registrerede Brugere:");
             foreach (User user in users)
             {
-                Console.WriteLine($"Name: {user.FirstName} {user.LastName}, Age: {user.Age}, Email: {user.Email}");
+                Console.WriteLine($"Name: {user.FirstName},Lastname: {user.LastName}, Age: {user.Age}, Email: {user.Email}");
             }
         }
-
+        
         public static void DisplayUsers()
         {
             try

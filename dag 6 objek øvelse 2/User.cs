@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace dag_6_objek_øvelse_2
 {
-    public class User
+    public class User : IComparable<User>
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -28,7 +28,7 @@ namespace dag_6_objek_øvelse_2
         }
         public override string ToString()
         {
-            return $"{FirstName} {LastName}, Age: {Age}, Email: {Email}";
+            return $"Firstname:{FirstName},LastName: {LastName}, Age: {Age}, Email: {Email}";
         }
     }
 }

@@ -15,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 6 objek \u00F8velse 2\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|solutionrelative:invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 6 objek \u00F8velse 2\\invalidnameexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|solutionrelative:invalidnameexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 6 objek \u00F8velse 2\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|solutionrelative:invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\dag 6 objek \u00F8velse 2\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AB288EC-2944-499E-81AB-36F8C20A1026}|dag 6 objek \u00F8velse 2.csproj|solutionrelative:invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -44,9 +44,10 @@
               "RelativeDocumentMoniker": "User.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\User.cs",
               "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wB4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T09:03:28.095Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -57,27 +58,40 @@
               "RelativeDocumentMoniker": "Filehandler.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\Filehandler.cs",
               "RelativeToolTip": "Filehandler.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T09:01:42.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InvalidEmailException.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidEmailException.cs",
-              "RelativeDocumentMoniker": "InvalidEmailException.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidEmailException.cs",
-              "RelativeToolTip": "InvalidEmailException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "InvalidNameException .cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidNameException .cs",
+              "RelativeDocumentMoniker": "InvalidNameException .cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidNameException .cs",
+              "RelativeToolTip": "InvalidNameException .cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:51:18.569Z",
+              "WhenOpened": "2024-11-11T08:50:30.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:48:58.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InvalidAgeException.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidAgeException.cs",
               "RelativeDocumentMoniker": "InvalidAgeException.cs",
@@ -91,27 +105,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InvalidNameException .cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidNameException .cs",
-              "RelativeDocumentMoniker": "InvalidNameException .cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidNameException .cs",
-              "RelativeToolTip": "InvalidNameException .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Title": "InvalidEmailException.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidEmailException.cs",
+              "RelativeDocumentMoniker": "InvalidEmailException.cs",
+              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\InvalidEmailException.cs",
+              "RelativeToolTip": "InvalidEmailException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:50:30.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\dag 6 objek \u00F8velse 2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:48:58.605Z",
+              "WhenOpened": "2024-11-11T08:51:18.569Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dag 6 objek øvelse 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2ae7220c06f7b5ed331cb4d0c6c51bcb405728f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88ed21d4974598eba7402bb84c3d588eaf880e56")]
 [assembly: System.Reflection.AssemblyProductAttribute("dag 6 objek øvelse 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dag 6 objek øvelse 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
