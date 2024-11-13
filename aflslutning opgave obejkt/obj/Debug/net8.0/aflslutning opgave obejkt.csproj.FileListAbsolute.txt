@@ -1,0 +1,15 @@
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\bin\Debug\net8.0\aflslutning opgave obejkt.exe
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\bin\Debug\net8.0\aflslutning opgave obejkt.deps.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\bin\Debug\net8.0\aflslutning opgave obejkt.runtimeconfig.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\bin\Debug\net8.0\aflslutning opgave obejkt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\bin\Debug\net8.0\aflslutning opgave obejkt.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.AssemblyInfoInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.AssemblyInfo.cs
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.sourcelink.json
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\refint\aflslutning opgave obejkt.dll
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.pdb
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\aflslutning opgave obejkt.genruntimeconfig.cache
+C:\Users\Sebastian Nielsen\Documents\GitHub\opgaves-t\aflslutning opgave obejkt\obj\Debug\net8.0\ref\aflslutning opgave obejkt.dll

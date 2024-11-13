@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aflslutning opgave obejkt/1.0.0": {
+        "runtime": {
+          "aflslutning opgave obejkt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aflslutning opgave obejkt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
