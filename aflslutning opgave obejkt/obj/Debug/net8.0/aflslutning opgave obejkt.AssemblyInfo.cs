@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aflslutning opgave obejkt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46a72b9f2cafe1e3b88921011c99b50e5963fffd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2107ddd9e56a64cb62c5380779045c771fd64c1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("aflslutning opgave obejkt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aflslutning opgave obejkt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -41,9 +41,9 @@
             }
         }
 
-        
-
+        //søg lærer starter med at lave en en liste hvor man kan indtaste 1234 og så vælge hvem man vil se. det gør den via if så hvis if er 1 så tager den læren med det id. hvor efter læren vise og der loopes igennem eleverne der har den lære i de fag 
         static void SøgLærer()
+
         {
             Console.WriteLine("Indtast Lærer ID:");
             foreach (var lærer in lærere)
@@ -68,6 +68,9 @@
             else Console.WriteLine("Ingen match fundet.");
         }
 
+
+
+        // denher lidt som den anden methode her skal man dog skrive elevens navn rigtigt
         static void SøgElev()
         {
             Console.WriteLine("Indtast elevens fulde navn:");
@@ -82,6 +85,7 @@
             else Console.WriteLine("Ingen match fundet.");
         }
 
+        // her får man oogså mulighed for at vælge hvilket fag man vil se
         static void SøgFag()
         {
             Console.WriteLine("Indtast Fag ID:");

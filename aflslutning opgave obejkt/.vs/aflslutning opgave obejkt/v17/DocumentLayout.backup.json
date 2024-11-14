@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:elev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\s\u00F8gekriterier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:s\u00F8gekriterier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\fag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:fag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:l\u00E6rer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\s\u00F8gekriterier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|solutionrelative:s\u00F8gekriterier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A406065F-58D0-44E7-87D0-87EB71B90382}|aflslutning opgave obejkt.csproj|c:\\users\\sebastian nielsen\\documents\\github\\opgaves-t\\aflslutning opgave obejkt\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataInitializer.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\DataInitializer.cs",
               "RelativeDocumentMoniker": "DataInitializer.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\DataInitializer.cs",
               "RelativeToolTip": "DataInitializer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:49:26.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "S\u00F8gekriterier.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\S\u00F8gekriterier.cs",
               "RelativeDocumentMoniker": "S\u00F8gekriterier.cs",
@@ -74,27 +74,27 @@
               "RelativeDocumentMoniker": "Fag.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Fag.cs",
               "RelativeToolTip": "Fag.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:40:10.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Elev.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Elev.cs",
               "RelativeDocumentMoniker": "Elev.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Elev.cs",
               "RelativeToolTip": "Elev.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:39:30.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "L\u00E6rer.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\L\u00E6rer.cs",
               "RelativeDocumentMoniker": "L\u00E6rer.cs",
@@ -113,20 +113,20 @@
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:37:49.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Sebastian Nielsen\\Documents\\GitHub\\opgaves-t\\aflslutning opgave obejkt\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAkwFIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFcAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T07:16:03.941Z",
               "EditorCaption": ""
